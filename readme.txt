@@ -36,7 +36,7 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
 == Screenshots ==
 
-  /assets/screenshot-1.JPG
+  <img src="http://plugins.svn.wordpress.org/wp-comment-validation/assets/screenshot-1.JPG" >
   /assets/screenshot-2.JPG 
 
 == Changelog ==
