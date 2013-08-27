@@ -36,7 +36,7 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
 == Screenshots ==
 
-  1. User view after installation
+  1. User view after installation.
   2. Admin setting page
 
 
