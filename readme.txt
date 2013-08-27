@@ -12,7 +12,7 @@ wp-comment-validation adds validation for wordpress default comment submission f
 
 == Description ==
 
-wp-comment-validation can adds custom message for wordpress default comment submission form validation. It is easy to use , just install plugin and validation will be there on the comment submission form on whole site aslo can be set your own message to display on error just go to  setting page of wp comment validation at left panel in wordpress.
+wp-comment-validation can adds custom message for wordpress default comment submission form validation. It is easy to use , just install plugin and validation will be there on the comment submission form on whole site also can be set your own message to display on error just go to  setting page of wp comment validation at left panel in wordpress.
 
 
 == Installation ==
@@ -38,6 +38,7 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
   1. User view after installation
   2. Admin setting page view
+
 
 == Changelog ==
 
