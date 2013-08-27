@@ -36,8 +36,8 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
 == Screenshots ==
 
-  `/assets/screenshot-1.JPG`
-  `/assets/screenshot-2.JPG` 
+  /assets/screenshot-1.JPG
+  /assets/screenshot-2.JPG 
 
 == Changelog ==
 
