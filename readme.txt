@@ -1,4 +1,4 @@
-=== wp-comment-validation ===
+=== wp comment validation ===
 Contributors: ajay3085006
 Donate link: https://ajaysharma3085006.wordpress.com/
 Tags: comments validation, wordpress comment validation plugin
