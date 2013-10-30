@@ -3,7 +3,7 @@ Contributors: ajay3085006
 Donate link: https://ajaysharma3085006.wordpress.com/
 Tags: comments validation, wordpress comment validation plugin
 Requires at least: 3.5
-Tested up to: 3.6
+Tested up to: 3.7
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -41,6 +41,8 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
 
 == Changelog ==
+=0.2=
+* Added enable disable for all input seperately
 
 = 0.1 =
 * Initial release
@@ -50,5 +52,5 @@ For more visit blog [wp-comment-validation](https://ajaysharma3085006.wordpress.
 
 == Upgrade Notice ==
 
-= 0.2 =
+= 0.3 =
 for adding more setting options in admin.
